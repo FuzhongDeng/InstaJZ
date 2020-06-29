@@ -12,7 +12,6 @@ django-imagekit = "*"
 django-annoying = "*"
 gunicorn = "*"
 whitenoise = "*"
-heroku = "*"
 
 [requires]
 python_version = "3.7"
